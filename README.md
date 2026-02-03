@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm NimaHaji</h1>
+<h1 align="center">Hi 👋, I'm Nima Haji Mazdarani</h1>
 <h3 align="center">Interested in the backend field :)</h3>
 
 - 💬 Ask me about **Asp.netCore,Js,C,HTML,Css,...**
 
-- 📫 How to reach me **nimahaji1395@gmail.com**
+- 📫 How to reach me **nimahajimazdarani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
