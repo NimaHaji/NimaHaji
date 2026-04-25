@@ -1,4 +1,4 @@
-<h1 align="center">👋 من نیما حاجی مازندرانی هستم</h1>
+<h1 align="center">👋 من نیما حاجی مزدارانی هستم</h1>
 
 <p align="center">
   <strong>🌐 nimahajimazdarani.ir</strong> — سایت شخصی من
