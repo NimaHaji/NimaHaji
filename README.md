@@ -4,9 +4,9 @@
 
 <!-- ========================= -->
 
-<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=9A4DFF&height=260&section=header&text=Nima%20Hajimazdarani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ASP.NET%20Core%20%7C%20Cybersecurity&descAlignY=60"/> </p>
+<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=9A4DFF&height=260&section=header&text=Nima%20Hajimazdarani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ASP.NET%20Core%20"/> </p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9A4DFF&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;Cybersecurity+Enthusiast;Clean+Architecture;Always+Learning+New+Things"/> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9A4DFF&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;Clean+Architecture;Always+Learning+New+Things"/> </p>
 
 <h2 align="center">Hi 👋 I'm Nima Hajimazdarani</h2>
 
@@ -34,7 +34,7 @@ Architecture:   Clean Architecture
 Database:       SQL Server
 Authentication: JWT
 Focus:          Secure & Maintainable APIs
-Currently:      Learning Penetration Testing & Bug Bounty
+Currently:      Focus on Backend
 ```
 
 ---
@@ -43,7 +43,7 @@ Currently:      Learning Penetration Testing & Bug Bounty
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,bootstrap,tailwind,js,html,css,linux,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,docker,dotnet,git,github,bootstrap,tailwind,js,html,css,linux,postman&theme=dark"/>
 
 </p>
 
