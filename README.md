@@ -1,61 +1,139 @@
-<h1 align="center">👋 من نیما حاجی مزدارانی هستم</h1>
+<!-- ========================= -->
+
+<!--         HEADER            -->
+
+<!-- ========================= -->
+
+<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=9A4DFF&height=260&section=header&text=Nima%20Hajimazdarani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20ASP.NET%20Core%20%7C%20Cybersecurity&descAlignY=60"/> </p>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9A4DFF&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;Cybersecurity+Enthusiast;Clean+Architecture;Always+Learning+New+Things"/> </p>
+
+<h2 align="center">Hi 👋 I'm Nima Hajimazdarani</h2>
+
+<p align="center"> Backend Developer • ASP.NET Core • Clean Architecture • REST API </p>
 
 <p align="center">
-  <strong>🌐 nimahajimazdarani.ir</strong> — سایت شخصی من
-</p>
 
-<h3 align="center">توسعه‌دهندهٔ بک‌اند | ASP.NET Core</h3>
+<a href="https://nimahajimazdarani.ir"> <img src="https://img.shields.io/badge/Website-9A4DFF?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
 
----
+<a href="https://www.linkedin.com/in/nima-haji-mazdarani/"> <img src="https://img.shields.io/badge/LinkedIn-9A4DFF?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-### 💡 دربارهٔ من
+<a href="mailto:[nimahajimazdarani@gmail.com](mailto:nimahajimazdarani@gmail.com)"> <img src="https://img.shields.io/badge/Gmail-9A4DFF?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-- 🔨 تا حالا **وب‌سایت فروشگاهی کامل**، **وبلاگ شخصی** و چندین **API حرفه‌ای** با ASP.NET Core رو طراحی و پیاده‌سازی کردم  
-- 🔐 روی **احراز هویت JWT**، **معماری تمیز (Clean Architecture)** و **RESTful API** تسلط دارم  
-- 🎯 تمرکزم روی کد تمیز، امنیت، و قابلیت نگهداری پروژه‌ست  
----
-
-### 🛠️ تکنولوژی‌های اصلی
-
-**بک‌اند**  
-C# • ASP.NET Core • Entity Framework Core • SQL Server • REST API • JWT
-
-**ابزار و سایر مهارت‌ها**  
-Git • GitHub • Postman • Linux (مقدماتی) • HTML/CSS/JS • Tailwind • Bootstrap
-
----
-
-### 🧩 زبان‌ها و ابزارها
-
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📁 چند تا از پروژه‌های کلیدی
+# 🚀 About Me
 
-- 🛍️ **وب‌سایت فروشگاهی** – ASP.NET Core + EF Core + Identity + طراحی واکنش‌گرا  
-- 📝 **وبلاگ شخصی** – مدیریت مقاله، دسته‌بندی، کامنت، احراز هویت  
-- 🔌 **مجموعه APIها** – کاربر، سفارش، محصول با مستندات سوگر  
+```yaml
+Name:           Nima Hajimazdarani
+Role:           Backend Developer
+Main Stack:     ASP.NET Core
+Architecture:   Clean Architecture
+Database:       SQL Server
+Authentication: JWT
+Focus:          Secure & Maintainable APIs
+Currently:      Learning Penetration Testing & Bug Bounty
+```
 
 ---
 
-### 📫 ارتباط با من
+# ⚡ Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/nimahajimazdarani" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/mast/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="mailto:nimahajimazdarani@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" /></a>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,bootstrap,tailwind,js,html,css,linux,postman&theme=dark"/>
+
 </p>
 
 ---
+
+# 💻 Featured Projects
+
+### 🛒 E-Commerce Platform
+
+* ASP.NET Core
+* Entity Framework Core
+* SQL Server
+* JWT Authentication
+* ASP.NET Identity
+* Clean Architecture
+
+---
+
+### 📝 Blog CMS
+
+* Authentication
+* Categories
+* Tags
+* Comments
+* Responsive Dashboard
+
+---
+
+### 🔥 REST API Collection
+
+* CRUD APIs
+* JWT Authentication
+* Swagger
+* Repository Pattern
+* Role Based Authorization
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=NimaHaji&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NimaHaji&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=NimaHaji&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NimaHaji&theme=tokyo-night&bg_color=0d1117&color=9A4DFF&line=9A4DFF&point=FFFFFF&hide_border=true"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NimaHaji&style=for-the-badge&color=9A4DFF"/>
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+
+<a href="https://nimahajimazdarani.ir"> <img src="https://img.shields.io/badge/Website-9A4DFF?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+
+<a href="mailto:[nimahajimazdarani@gmail.com](mailto:nimahajimazdarani@gmail.com)"> <img src="https://img.shields.io/badge/Email-9A4DFF?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/nima-haji-mazdarani/"> <img src="https://img.shields.io/badge/LinkedIn-9A4DFF?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+</p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=9A4DFF&height=120&section=footer"/> </p>
